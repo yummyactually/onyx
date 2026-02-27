@@ -1,0 +1,5 @@
+pytest
+pytest-qt
+PyQt6
+mutagen
+sounddevice
